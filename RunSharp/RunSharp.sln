@@ -6,6 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunSharp", "RunSharp\RunSharp.csproj", "{4FA0BBBF-9BEB-4B54-921C-48FC81786922}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0D74A3F4-ED7C-4C88-AB49-51E262116A9B}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+		RunSharp\bin\Release\RunSharp.exe = RunSharp\bin\Release\RunSharp.exe
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
