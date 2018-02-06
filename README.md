@@ -19,7 +19,7 @@ Example:
 
 	> RunSharp.exe CORP fmc defnotmypassword! "whoami >> c:\\Users\\Public\\test.txt"
 
-## Run With Whitelisting Bypass
+## Run With Whitelisting Bypass (CURRENTLY NOT WORKING)
 The following describes how to use the program with the InstallUtil Application Whitelisting (AWS) Bypass Technique.
 
 Please note that the AWS bypass is only for running this program and not necessarily subsequent programs. You would need to chain together InstallUtil commands to make that happen.
